@@ -1,38 +1,96 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Useful Projects (Repos) related to Ethiopia (refer the website for the latest list of projects)
 
-## Getting Started
+This repository is a collection of repos that are concerned with developing Ethiopian related apps, chatbots, APIs, AI, etc.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+#### [](#localization)Localization
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Amharic-Keyboard](https://github.com/dawityise/Amharic-Keyboard) jQuery plugin for Amharic keyboard support onlinei
+- [Amharic-transliteration](https://github.com/dohliam/amharic-transliteration) A JavaScript-based converter for transliterating Amharic text into Latin characters
+- [En2am](https://github.com/misgeatgit/en2am) Yet another way to type amharic on standard english keyboard.
+- [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
+- [Geezer](https://github.com/moe-szyslak/Geezer) Converts Arabic numerals to Geez
+- [geezify-php](https://github.com/geezify/geezify-php) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
+- [geezify-js](https://github.com/geezify/geezify-js) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
+- [geezify-rb](https://github.com/yilkalargaw/Geezify-rb.git) a ruby gem to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
+- [geezify-lua](https://github.com/yilkalargaw/geezify-lua) a lua rock to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
+- [Ime](https://github.com/menzew/input-method-editor-for-am_ET) (Java) Input Method for am_et. Simple algorithm, portable code.
+- [Magento-translation-am](https://github.com/admasethiopia/magento-translation-am) [Majento](https://magento.com/) 1.7.0.2 Amharic Translation
+- [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5) HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
+- [Sleeboard](https://github.com/sleeboard/sleeboard) An Amharic keyboard to add to your website.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+#### [](#calendar)Calendar
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [calender](https://github.com/andegna/calender) If you ever want to convert Ethiopian Calender to any other calender system (like the Gregorian Calender)
+- [EC.js](https://github.com/b3rew/EC.Js) Ethiopian calendar (የኢትዮጲያ የቀን መቁጠሪያ) for Javascript (yet another one)
+- [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
+- [ethiopic_calendar](https://github.com/vtprepo/ethiopic_calendar) Ruby Ethiopian Calendar module. To change to and from Gregorian to Ethiopic date versions
+- [ken.js](https://github.com/Miqe/ken.js) Ethiopian Date converter that works for the browser and node.js
+- [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የኢትዮጲያ የቀን መቁጠሪያ Library
+- [EthiopianChronology](https://github.com/andegna/EthiopianChronology) EthiopianChronology is simply a library designed based on the extensible **JDK 8** new date and time API. Using the Ethiopic.org Calender Class underneath.
+- [Ameshash](https://github.com/askual/ameshash) Ethiopian Calender plugin for wordpress.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+#### [](#ethiopic-data)Ethiopic Data
 
-To learn more about Next.js, take a look at the following resources:
+- [Ethiopia LSMS Household Cluster Location ](https://github.com/tessam30/Ethiopia) Ethiopia Rural Socioeconomic Survey (ERSS) Analysis
+- [Geezorg](https://github.com/geezorg) Digital Resources for the Realm of Ge'ez.
+- [Dictionaries](https://github.com/admasethiopia/dictionaries) Academy Terms, Professional Terms and other dictionaries.
+- [Ethiopic-Data](https://github.com/b3rew/ethiopic-data) list of collected Ethiopia related data
+- [Ethiopian-names](https://github.com/yonihahasis/ethiopian-names) List of 44k unique Ethiopian names in a JSON format.
+- [Faket](https://github.com/m3hari/faket) A library for generating Ethopic fake data such as names, addresses, and phone numbers
+- [myethiopia](https://github.com/myethiopia/Ethiopia) Ethiopian Adiminstrative Regions: Prior to 1991
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### [](#telegram-bots)[Telegram Bots](https://telegram.org/)
 
-## Deploy on Vercel
+- [Amharic-telegram-bot](https://github.com/nathenapse/Amharic-telegram-bot) This is a telegram bot to translate text to amharic [@amharicbot](https://telegram.me/AmharicBot)
+- [EdnaBot](https://github.com/ntgx/EdnaBot) Edna Mall Telegram Bot [@ednabot](https://telegram.me/EdnaBot)
+- [EtMDB Telegram Bot](https://github.com/etmdb/telegrambot) Ethiopian movie database (EtMDB) telegram bot to access the movies, artists, companies & cinemas metadata, and many more [@etmdbbot](https://telegram.me/etmdb)
+- [Nooice](https://github.com/moe-szyslak/Nooice) Telegram Bot @NooiceBot that speaks NOOICE, also does some other less important stuff too 😒. Nearest 🏧 (with moderation handled inside Telegram), Today's Date in Ethiopic, and Geez Converter. [@NooiceBot](https://telegram.me/NooiceBot)
+- [RansomEmojiBot](https://github.com/ntgx/RansomEmojiBot) Telegram bot that generates ransom note using emoji [@RansomEmojiBot](https://telegram.me/RansomEmojiBot)
+- [Zefen Telegram Bot](https://github.com/b3rew/zefen-bot) Telegram Bot that let you search and play Ethiopian music inside telegram using a beautiful in app music player [@zefenBot](https://telegram.me/zefenBot)
+- [Snt birr new bot](https://github.com/askual/Sint-birr-nw-bot) A Telegram bot that tells you the price/cost of a file before downloading it on mobile data.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### [](#android-apps) Android Apps
+
+- [G12 Matrick App](https://github.com/RhinoSoftware/G12Matric) G12 Matrick App is an application made for android that aims to assist Ethiopian grade 12 students with matrick exam materials to help them prepare for national examination
+- [Kuwas App](https://github.com/brookmg/kuwas) Android application that provides the latest news and detail about the Ethiopian premier league. Currently available in the google playstore.
+
+---
+
+#### [](#Github-Organizations) Github Organizations
+
+- [Ge'ez Frontier Foundation](https://github.com/geezorg) A github organization filled with various texts, software and encoding & decoding tools for those needing resorces for working with languages that use the Ge'ez alphabet.
+- [geezify](https://github.com/orgs/geezify) A github organization that contains libraries for geeze number conversion in various programming languages.
+
+---
+
+#### [](#other-apps)Other apps
+
+- [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch) Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
+- [ENAD](https://github.com/tderso/enad_app) Rails Ethiopian National Association of the Deaf (ENAD) Application
+- [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API
+- [Ethiopia-geostat](https://github.com/JiehuaChen/Ethiopia-geostat) geostatistics codes for mapping using Ethiopia data
+- [Ethiopian Birr Currency Exchange Rate](https://github.com/Minab-Tech/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate parser
+- [Ethiopian Birr Currency Exchange API Server](https://github.com/b3rew/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate API server
+- [Amharic Spelling corrector](https://github.com/Yididya/amharic_spell_corrector) Amharic Spelling Corrector based on SymSpell - Spelling corrector which is 1 million times faster through Symmetric Delete spelling correction algorithm
+- [Soccer Ethiopia API](https://github.com/brookmg/Soccer-Ethiopia-API) An unofficial Android library used to fetch the latest ethiopian premier league data.
+- [Direct Download Stalker](https://github.com/yilkalargaw/direct_download_stalker) a self hostable file to get optimized search google results for your direct download needs
+- [DEVS.et](https://github.com/devs-et/devs-et-web) a community platform for Ethiopian developers
+- [org-auto-tangle](https://github.com/yilkalargaw/org-auto-tangle) an emacs package to automatically and asynchronously tangle code in an org file
+
+---
+
+# Contribution
+
+Feel free to contribute to this repo.
+The goal is to have as many repos as we can so that other developers can find what they are looking for.
+If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
