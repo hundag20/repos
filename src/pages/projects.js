@@ -15,7 +15,6 @@ export const getServerSideProps = async (context) => {
         props: {
             projectMd: projectMd.toString(),
         },
-        fallback: 'blocking'
     }
 }
 
