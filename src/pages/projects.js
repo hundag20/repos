@@ -1,7 +1,6 @@
 import ReactMarkdown from 'react-markdown'
 import fs from 'fs'
 const handler = ({ projectMd }) => {
-
     return <ReactMarkdown>{projectMd}</ReactMarkdown>
 }
 
@@ -15,7 +14,8 @@ export const getServerSideProps = async (context) => {
     return {
         props: {
             projectMd: projectMd.toString(),
-        }
+        },
+        fallback: 'blocking'
     }
 }
 
